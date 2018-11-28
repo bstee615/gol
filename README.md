@@ -1,6 +1,8 @@
 # gol
 Conway's Game of Life in C++
 
+![Conway's Game of Life in C++](screenshot.PNG)
+
 Usage: `GameOfLife.exe [filepath]`
 The program takes keyboard input if no file is specified, or reads from a file.
 
